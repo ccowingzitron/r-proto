@@ -70,7 +70,7 @@ http://cran.r-project.org/doc/vignettes/proto/proto.pdf
      p$mat # mat has been updated
 }}}
 
- * Implicitly reset the enviornment of a function.  Here ll has free parameters x and y which would not be found when mle calls it since ll's scope is the global environment; however, by placing it in a proto object in fit.mle its environment implicitly gets reset so that x and y can be found:
+ * Implicitly reset the enviornment of a function.  Here ll has free parameters x and y which would not be found when mle calls it since ll's parent is the global environment and x and y are not located there; however, when ll is passed to fit.mle in formal argument FUN we can place FUN into a proto object which will implicitly reset its parent to that object and since the proto object is defined in fit.mle its parent will be the environment in fit.mle and so it will find the x and y arguments that are known within fit.mle:
 
 {{{
      library(proto)
