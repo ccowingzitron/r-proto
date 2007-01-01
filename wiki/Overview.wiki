@@ -46,22 +46,7 @@ Extensive documentation (help files, tutorial and reference card) is part of the
 
  * reference card: http://cran.r-project.org/doc/vignettes/proto/protoref.pdf
 
- * additional manuscript describing prototype programming in general in a way that is accessible to users of R. This article does not specifically deal with proto itself but provides useful background: http://hhbio.wasser.tu-dresden.de/projects/proto/prototype_approaches.pdf  
-
-==Links==
-
-The R project of statistical computing:
-http://www.r-project.org/
-
-Download proto:
-http://cran.at.r-project.org/src/contrib/PACKAGES.html
-
-Wikipedia Article about Prototype-based Programming (including Pro's and Con's) 
-Citeseer Link to Antero Taivalsaaris (1996) and to Lieberman's (1986) classical papers 
-http://en.wikipedia.org/wiki/Prototype-based_programming
-
-Thomas Petzoldt's homepage 
-http://tu-dresden.de/Members/thomas.petzoldt
+ * additional manuscript describing prototype programming in general in a way that is accessible to users of R. This article does not specifically deal with proto itself but provides useful background: http://r-proto.googlecode.com/files/prototype_approaches.pdf
 
 ==Examples==
 
