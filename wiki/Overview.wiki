@@ -1,4 +1,4 @@
-http://hhbio.wasser.tu-dresden.de/projects/proto/prototree.gif
+http://r-proto.googlecode.com/files/prototree.gif
 
 =The R proto package=
  
