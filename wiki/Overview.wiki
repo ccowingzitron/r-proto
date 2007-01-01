@@ -118,7 +118,7 @@ proto, like R, is free open source software licensed under the Gnu Public Licens
 We wish you a lot of fun with the exciting world of proto objects. 
 
 Maintainer 
-Gabor Grothendieck, ggrothendieck @ gmail.com
+ * Gabor Grothendieck, ggrothendieck @ gmail.com
 
 Authors
-Louis Kates and Thomas Petzoldt
+ * Louis Kates and Thomas Petzoldt
