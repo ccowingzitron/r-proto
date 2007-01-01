@@ -110,14 +110,9 @@ http://cran.r-project.org/doc/vignettes/proto/proto.pdf
      timerb$run()
 }}}
 
-==License==
-proto, like R, is free open source software licensed under the Gnu Public License (GPL 2.0).
-
-
+==Team==
 
 We wish you a lot of fun with the exciting world of proto objects. 
-
-==Team==
 
  * Gabor Grothendieck (maintainer)
 
