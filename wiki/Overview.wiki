@@ -33,7 +33,7 @@ The source code and precompiled packages for Windows are available from CRAN in 
 
 Extensive documentation (help files, tutorial and reference card) is part of the installed package or available directly:
 
- * online documentation of the proto package (functions, examples): http://cran.r-project.org/doc/packages/proto.pdf
+ * online help documentation of the proto package (functions, examples): http://cran.r-project.org/doc/packages/proto.pdf
 
  * In R, enter this to get a list of the documentation items that come with proto: 
 
