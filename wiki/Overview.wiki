@@ -69,7 +69,19 @@ http://cran.r-project.org/doc/vignettes/proto/proto.pdf
      incr(p)
      p$mat # mat has been updated
 }}}
- 
+
+ * Implicitly reset the enviornment of a function.  Here ll has free parameters x and y which would not be found when mle calls it since ll's scope is the global environment; however, by placing it in a proto object in fit.mle its environment implicitly gets reset so that x and y can be found:
+
+{{{
+     library(proto)
+     library(stats4)
+     ll <- function(ymax=15, xhalf=6) 
+                   -sum(stats::dpois(y, lambda=ymax/(1+x/xhalf), log=TRUE))
+     fit.mle <- function(FUN, x, y)
+                   mle(proto(FUN = match.fun(FUN))[["FUN"]], method="L-BFGS-B", lower=c(0, 0))
+     fit.mle("ll", x=0:10, y=c(26, 17, 13, 12, 20, 5, 9, 8, 5, 4, 8))
+}}}
+
  * Manipulating formula environments: This can be tricky in R and proto can help sort it out. In this example, update must be able to find v; however, by default update looks only in the environment of formula f so a v created in the nonadd function would not be found. To address this we add a data argument to update which specifies a proto object containing v. The parent of the proto object is defined to be the environment of f. That way v is found in the proto object itself and the other components of the formula are fou nd in the proto object's parent. 
 
 {{{
