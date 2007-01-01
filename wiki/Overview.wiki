@@ -1,5 +1,4 @@
 
-
 http://hhbio.wasser.tu-dresden.de/projects/proto/prototree.gif
 
 =The R proto package=
@@ -111,7 +110,7 @@ http://cran.r-project.org/doc/vignettes/proto/proto.pdf
 }}}
 
 ==License==
-proto, like R, is free open source software licensed under the Gnu Public License (GPL 2.0 or above).
+proto, like R, is free open source software licensed under the Gnu Public License (GPL 2.0).
 
 
 
