@@ -1,4 +1,5 @@
-http://r-proto.googlecode.com/files/prototree.gif
+[http://r-proto.googlecode.com/files/prototree.gif http://r-proto.googlecode.com/files/prototree.R]
+(click for source code)
 
 =The R proto package=
  
