@@ -8,7 +8,7 @@ proto is an R package which facilitates a style of programming known as prototyp
 
 proto can be used to organize data and procedures without the overhead of defining classes while still providing convenient access to an object oriented style of programming. Furthermore, it can be used in a class-based style, as well, so that incremental design can begin with defining the concrete objects and later transition to abstract classes, once the general case is understood.
 
-proto includes facilities for automatic generation of visual documentation on the object relationships in a system such as the diagram shown above. In the example diagram there is an object R with children c and a. c has children d and b and the upper case objects are children of b. 
+proto includes facilities for automatic generation of visual documentation on the object relationships in a system such as the diagram shown above. In that diagram there is an object R with children c and a. c has children d and b and the upper case objects are children of b. 
 
 Because proto objects are just environments with different semantics, proto also has a number of uses outside of object oriented programming. proto can enable the use of pass-by-reference (as opposed to pass-by-value) and can faciliate the use of environments within R as shown in some of the examples on this page.
 
