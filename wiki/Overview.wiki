@@ -47,7 +47,7 @@ Extensive documentation (help files, tutorial and reference card) is part of the
  * reference card: http://cran.r-project.org/doc/vignettes/proto/protoref.pdf
 
  * background on prototype-based programming:
-   * manuscript describing prototype programming, in general, in a way that is accessible to users of R: http://r-proto.googlecode.com/files/prototype_approaches.pdf
+   * Kates and Petzoldt (2004). Prototype-based programming in statistical computation.  Describes prototype programming, in general, in a way that is accessible to users of R: http://r-proto.googlecode.com/files/prototype_approaches.pdf
    * Henry Lieberman (1986). Using Prototypical Objects to Implement Shared Behavior in Object Oriented Systems. http://citeseer.ist.psu.edu/lieberman86using.html
    * Antero Taivalsaari (1996). Classes vs. Prototypes Some Philosophical and Historical Observations. http://citeseer.ist.psu.edu/taivalsaari96classes.html  
    * Wikipedia on prototype-based programming.  http://en.wikipedia.org/wiki/Prototype-based_programming
