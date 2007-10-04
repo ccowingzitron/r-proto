@@ -28,7 +28,7 @@ proto can be installed directly from the internet within R either via the menu (
      > install.packages("proto",  dependencies = TRUE)
 }}}
 
-The source code and precompiled packages for Windows are available from CRAN in *.tar.gz resp. *.zip format. Alternately, access to the proto SVN repository can be enabled upon request. 
+The source code is from CRAN in *.tar.gz format and precompiled binaries for Windows in  *.zip format.   The development source is avalable at the svn repository at the Source tab above.
 
 ==Documentation==
 
