@@ -59,7 +59,7 @@ Extensive documentation (help files, tutorial and reference card) is part of the
 proto can be used for object-oriented programming (last two examples below) as well as a number of situations not related to object oriented programming (first two examples below). The following examples are, in part, collected from the [r-help 
 https://stat.ethz.ch/mailman/listinfo/r-help mailing list] and therefore represent real problems that users of `R` have encountered that could be addressed by `proto`. The third example is pedagogical but larger similar examples of its type can be found in the [tutorial http://cran.r-project.org/doc/vignettes/proto/proto.pdf] .
 
- * Facilitate the use of references rather than passing by value: For example, create a `proto` object, `p`, with a matrix component, `mat`. We can now update it in place using function `incr` which references and updates mat in place in the `proto` object so that it need not be physically copied back and forth. 
+1. Facilitate the use of references rather than passing by value: For example, create a `proto` object, `p`, with a matrix component, `mat`. We can now update it in place using function `incr` which references and updates mat in place in the `proto` object so that it need not be physically copied back and forth. 
 
 {{{
      library(proto)
@@ -69,7 +69,7 @@ https://stat.ethz.ch/mailman/listinfo/r-help mailing list] and therefore represe
      p$mat # mat has been updated
 }}}
 
- * Implicitly reset the enviornment of a function.  Here `ll` has free parameters `x` and `y` which would not be found when mle calls it since `ll`'s parent is the global environment and `x` and `y` are not located there; however, when `ll` is passed to `fit.mle` in formal argument `FUN` we can place `FUN` into a `proto` object which will implicitly reset its parent to that object and since the `proto` object is defined in `fit.mle` its parent will be the environment in `fit.mle` and so it will find the `x` and `y` arguments that are known within `fit.mle`:
+2. Implicitly reset the enviornment of a function.  Here `ll` has free parameters `x` and `y` which would not be found when mle calls it since `ll`'s parent is the global environment and `x` and `y` are not located there; however, when `ll` is passed to `fit.mle` in formal argument `FUN` we can place `FUN` into a `proto` object which will implicitly reset its parent to that object and since the `proto` object is defined in `fit.mle` its parent will be the environment in `fit.mle` and so it will find the `x` and `y` arguments that are known within `fit.mle`:
 
 {{{
      library(proto)
@@ -81,7 +81,7 @@ https://stat.ethz.ch/mailman/listinfo/r-help mailing list] and therefore represe
      fit.mle("ll", x=0:10, y=c(26, 17, 13, 12, 20, 5, 9, 8, 5, 4, 8))
 }}}
 
- * Manipulating formula environments: This can be tricky in `R` and `proto` can help sort it out. In this example, `update` must be able to find `v`; however, by default `update` looks only in the environment of formula `f` so a `v` created in the `nonadd` function would not be found. To address this we add a `data` argument to `update` which specifies a `proto` object containing `v`. The parent of the `proto` object is defined to be the environment of `f`. That way `v` is found in the `proto` object itself and the other components of the formula are found in the `proto` object's parent. 
+3. Manipulating formula environments: This can be tricky in `R` and `proto` can help sort it out. In this example, `update` must be able to find `v`; however, by default `update` looks only in the environment of formula `f` so a `v` created in the `nonadd` function would not be found. To address this we add a `data` argument to `update` which specifies a `proto` object containing `v`. The parent of the `proto` object is defined to be the environment of `f`. That way `v` is found in the `proto` object itself and the other components of the formula are found in the `proto` object's parent. 
 
 {{{
      library(proto)
