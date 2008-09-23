@@ -97,7 +97,7 @@ https://stat.ethz.ch/mailman/listinfo/r-help mailing list] and therefore represe
      nonadd(y ~ x)
 }}}
  
- * Delegation/inheritance: In this example we define a parent object, `timera`, with two components: a method, `run` which runs a timing operation, and a variable, `x`, which is used in the timing. We execute the method and then create a child object, `timerb`, overriding the variable `x` and inheriting the method `run`. We execute the `run` method which is inherited and acts on the child `x`. 
+4. Delegation/inheritance: In this example we define a parent object, `timera`, with two components: a method, `run` which runs a timing operation, and a variable, `x`, which is used in the timing. We execute the method and then create a child object, `timerb`, overriding the variable `x` and inheriting the method `run`. We execute the `run` method which is inherited and acts on the child `x`. 
  
 {{{
      library(proto)
@@ -109,7 +109,7 @@ https://stat.ethz.ch/mailman/listinfo/r-help mailing list] and therefore represe
      timerb$run()
 }}}
 
- * gWidgets: The [http://wiener.math.csi.cuny.edu/pmg/gWidgets gWidgets] R package for user interfaces can be used in conjunction with `proto` as seen from the examples [http://wiener.math.csi.cuny.edu/pmg/gWidgets/Examples/ProtoExample-ex.html here] and [http://wiener.math.csi.cuny.edu/pmg/gWidgets/Examples/ScopingIssues-ex.html here]. Also see [https://stat.ethz.ch/pipermail/r-devel/2007-September/046888.html this r-devel post].
+5. gWidgets: The [http://wiener.math.csi.cuny.edu/pmg/gWidgets gWidgets] R package for user interfaces can be used in conjunction with `proto` as seen from the examples [http://wiener.math.csi.cuny.edu/pmg/gWidgets/Examples/ProtoExample-ex.html here] and [http://wiener.math.csi.cuny.edu/pmg/gWidgets/Examples/ScopingIssues-ex.html here]. Also see [https://stat.ethz.ch/pipermail/r-devel/2007-September/046888.html this r-devel post].
 
 
 ==Team==
