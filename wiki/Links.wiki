@@ -1,4 +1,4 @@
-# Links - these were previously in the links box on home page
+# Links - these were previously in the Links Box on the home page
 
 Proto
 
@@ -25,7 +25,7 @@ Prototype Programming
 General Programming
 
 <ul>
-<li><a href="http://opendotdotdot.blogspot.com/2009/09/russias-new-holiday-programmers-day.html" rel="nofollow">Programmer&#39;s Day</a></li>
+<li><a href="http://opendotdotdot.blogspot.com/2009/09/russias-new-holiday-programmers-day.html" rel="nofollow">Programmer's Day</a></li>
 <li><a href="http://programmer.97things.oreilly.com/wiki/index.php/Edited_Contributions" rel="nofollow">Things Every Programmer Should Know</a></li>
 <li><a href="http://typicalprogrammer.com/programming/abject-oriented/" rel="nofollow">Abject-Oriented Programming (he-he)</a></li>
 <li><a href="http://basildoncoder.com/blog/2008/03/21/the-pg-wodehouse-method-of-refactoring/" rel="nofollow">P.G. Wodehouse Refactoring</a></li>
