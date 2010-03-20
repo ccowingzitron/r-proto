@@ -3,19 +3,19 @@
 Proto
 
 <ul id="url_links">
-<li><a href="http://cran.r-project.org/web/packages/proto/vignettes/protoref.pdf" rel="nofollow">proto reference card (pdf)</a></li>
-<li><a href="http://cran.r-project.org/web/packages/proto/proto.pdf" rel="nofollow">proto reference manual (pdf)</a></li>
+<li><a href="http://cran.r-project.org/web/packages/proto/vignettes/protoref.pdf" rel="nofollow">proto reference card</a></li>
+<li><a href="http://cran.r-project.org/web/packages/proto/proto.pdf" rel="nofollow">proto reference manual</a></li>
 <li><a href="http://r-proto.googlecode.com/svn/trunk/inst/doc/proto.pdf" rel="nofollow">proto vignette (devel version)</a></li>
-<li><a href="http://cran.r-project.org/web/packages/proto/index.html" rel="nofollow">proto on CRAN</a></li>
 <li><a href="http://r-proto.googlecode.com/svn/trunk/inst/NEWS" rel="nofollow">proto NEWS</a></li>
-<li><a href="http://cran.r-project.org/web/packages/proto/vignettes/proto.pdf" rel="nofollow">proto tutorial (pdf)</a></li>
+<li><a href="http://cran.r-project.org/web/packages/proto/vignettes/proto.pdf" rel="nofollow">proto tutorial</a></li>
+<li><a href="http://cran.r-project.org/web/packages/proto/index.html" rel="nofollow">proto on CRAN</a></li>
 <li><a href="http://www.r-project.org/" rel="nofollow">R</a></li>
 </ul>
 
 Prototype Programming
 
 <ul id="url_links">
-<li><a href="http://r-proto.googlecode.com/files/prototype_approaches.pdf" rel="nofollow">Prototype-Based Programming in Statistical Computation (pdf)</a></li>
+<li><a href="http://r-proto.googlecode.com/files/prototype_approaches.pdf" rel="nofollow">Prototype-Based Programming in Statistical Computation (2004)</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Prototype-based_programming" rel="nofollow">Wikipedia on prototype-based programming</a></li>
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.69" rel="nofollow">Lieberman (1986) paper</a></li>
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.4713" rel="nofollow">Taivalsaari (1996) paper</a></li>
