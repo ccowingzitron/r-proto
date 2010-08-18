@@ -38,4 +38,5 @@ General Programming
 <li><a href="http://www.slideshare.net/cxpartners/secrets-of-simplicity">The Secrets of Simplicity</a></li>
 <li><a href="http://benjismith.net/index.php/2005/09/30/hate-frameworks/">Frameworks (he-he)</a></li>
 <li><a href="http://sheddingbikes.com/posts/1281257293.html">Common Programmer Health Problems</a></li>
+<li><a href="http://www.wausita.com/2010/08/the-great-benefit-of-test-driven-development-nobody-talks-about">Hidden Benefit of Test Driven Development</a></li>
 </ul>
