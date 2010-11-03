@@ -40,4 +40,5 @@ General Programming
 <li><a href="http://sheddingbikes.com/posts/1281257293.html">Common Programmer Health Problems</a></li>
 <li><a href="http://www.wausita.com/2010/08/the-great-benefit-of-test-driven-development-nobody-talks-about">Hidden Benefit of Test Driven Development</a></li>
 <li><a href="http://lists.ethernal.org/oldarchives/cantlug-0211/msg00174.html">Rubber Duck Debugging</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Accidental_complexity">Accidental Complexity</a></li>
 </ul>
