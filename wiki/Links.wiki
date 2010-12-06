@@ -42,4 +42,5 @@ General Programming
 <li><a href="http://lists.ethernal.org/oldarchives/cantlug-0211/msg00174.html">Rubber Duck Debugging</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Accidental_complexity">Accidental Complexity</a> (also see <a href="http://en.wikipedia.org/wiki/Anti-pattern">Anti-Patterns</a>)</li>
 <li><a href="http://blog.mathgladiator.com/2010/11/3-programming-languages-you-need-to.html">The 3 Programming Languages you Need</a></li>
-<li><a href="http://www.cddc.vt.edu/jargon/html/S/SMOP.html">A Small Matter of Programming</a></li></ul>
+<li><a href="http://www.cddc.vt.edu/jargon/html/S/SMOP.html">A Small Matter of Programming</a></li>
+<li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html">Competency</a></li></ul>
