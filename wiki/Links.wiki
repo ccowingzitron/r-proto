@@ -46,4 +46,6 @@ General Programming
 <li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html">Competency</a></li>
 <li><a href="http://www.dump.com/2010/12/13/the-vendor-client-relationship-in-real-world-situations-video/">If people paid for other things like they paid for programming</a></li>
 <li><a href="http://whatupdave.com/post/1170718843/leaving-net">Dysfunctional Development</a></li>
-<li>Jolt Programming Book Awards <a href="http://www.drdobbs.com/blog/archives/2010/08/jolt_awards_big.html">(2010)</a></li></ul>
+<li>Jolt Programming Book Awards <a href="http://www.drdobbs.com/blog/archives/2010/08/jolt_awards_big.html">(2010)</a> 
+<a href="http://www.amazon.com/Jolt-Award-Book-Finalists-Annual/lm/R1WFNR53KCER6W">(2007)</a></li>
+</ul>
