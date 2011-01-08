@@ -27,7 +27,7 @@ General Programming
 <ul>
 <li><a href="http://opendotdotdot.blogspot.com/2009/09/russias-new-holiday-programmers-day.html" rel="nofollow">Programmer's Day</a></li>
 <li><a href="http://programmer.97things.oreilly.com/wiki/index.php/Edited_Contributions" rel="nofollow">Things Every Programmer Should Know</a></li>
-<li><a href="http://typicalprogrammer.com/programming/abject-oriented/" rel="nofollow">Abject-Oriented Programming (he-he)</a></li>
+<li><a href="http://typicalprogrammer.com/programming/abject-oriented/" rel="nofollow">Abject-Oriented Programming (he-he)</a> (also see <a href="http://seven-degrees-of-freedom.blogspot.com/2011/01/job-security-through-code-obscurity.html">this</a> for another approach)</li>
 <li><a href="http://basildoncoder.com/blog/2008/03/21/the-pg-wodehouse-method-of-refactoring/" rel="nofollow">P.G. Wodehouse Refactoring</a></li>
 <li><a href="http://www.c2.com/cgi/wiki?DogFood" rel="nofollow">Dog Food</a></li>
 <li><a href="http://www.python.org/dev/peps/pep-0020/" rel="nofollow">Zen</a></li>
