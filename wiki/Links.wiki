@@ -47,4 +47,5 @@ General Programming
 <li><a href="http://www.dump.com/2010/12/13/the-vendor-client-relationship-in-real-world-situations-video/">If people paid for other things like they paid for programming</a></li>
 <li><a href="http://whatupdave.com/post/1170718843/leaving-net">Dysfunctional Development</a></li>
 <li>Jolt Programming Book Awards <a href="http://www.drdobbs.com/blog/archives/2010/08/jolt_awards_big.html">(2010)</a> 
-<A href="http://translate.google.com/translate?hl=en&sl=ko&u=http://tkhwang.tistory.com/20&ei=IMYXTb__IoL-nAfb593mDQ&sa=X&oi=translate&ct=result&resnum=2&ved=0CB4Q7gEwATgU&prev=/search%3Fq%3Djolt%2Bbook%2Bawards%2B2009%26start%3D20%26hl%3Den%26sa%3DN%26prmd%3Divns">(2009)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards">(2008)</a> <a href="http://www.librarything.com/bookaward/Jolt+Awards">(earlier)</a></li></ul>
+<A href="http://translate.google.com/translate?hl=en&sl=ko&u=http://tkhwang.tistory.com/20&ei=IMYXTb__IoL-nAfb593mDQ&sa=X&oi=translate&ct=result&resnum=2&ved=0CB4Q7gEwATgU&prev=/search%3Fq%3Djolt%2Bbook%2Bawards%2B2009%26start%3D20%26hl%3Den%26sa%3DN%26prmd%3Divns">(2009)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards">(2008)</a> <a href="http://www.librarything.com/bookaward/Jolt+Awards">(earlier)</a></li>
+<li><a href="http://adam.heroku.com/past/2008/8/11/speculating_sucks/">Specualating Sucks</a></li></ul>
