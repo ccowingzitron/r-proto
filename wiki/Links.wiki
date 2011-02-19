@@ -50,4 +50,5 @@ General Programming
 <A href="http://translate.google.com/translate?hl=en&sl=ko&u=http://tkhwang.tistory.com/20&ei=IMYXTb__IoL-nAfb593mDQ&sa=X&oi=translate&ct=result&resnum=2&ved=0CB4Q7gEwATgU&prev=/search%3Fq%3Djolt%2Bbook%2Bawards%2B2009%26start%3D20%26hl%3Den%26sa%3DN%26prmd%3Divns">(2009)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards">(2008)</a> <a href="http://www.librarything.com/bookaward/Jolt+Awards">(earlier)</a></li>
 <li><a href="http://adam.heroku.com/past/2008/8/11/speculating_sucks/">Speculating Sucks</a></li>
 <li><a href="http://projectb14ck.org/programming-innocence">Fearless Coding</a></li>
-<li><a href="http://gamesfromwithin.com/the-const-nazi">The const Nazi (for C++ programmers only)</a></li></ul>
+<li><a href="http://gamesfromwithin.com/the-const-nazi">The const Nazi (for C++ programmers only)</a></li>
+<li><a href="http://news.ycombinator.com/item?id=2239395">Programming While Listening to Music</a></li></ul>
