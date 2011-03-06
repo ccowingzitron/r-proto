@@ -53,4 +53,5 @@ General Programming
 <li><a href="http://gamesfromwithin.com/the-const-nazi">The const Nazi (for C++ programmers only)</a></li>
 <li><a href="http://news.ycombinator.com/item?id=2239395">Programming While Listening to Music</a></li>
 <li><a href="http://mmiika.wordpress.com/oo-design-principles/">OO Design Principles</a></li>
-<li><a href="http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read">What is the single most influential book on programming?</a></li></ul>
+<li><a href="http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read">What is the single most influential book on programming?</a></li>
+<li><a href="http://jeffhuang.com/best_paper_awards.html">Best CS  Papers</a></li></ul>
