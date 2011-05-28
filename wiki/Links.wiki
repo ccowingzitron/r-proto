@@ -20,6 +20,7 @@ Prototype Programming
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.69" rel="nofollow">Lieberman (1986) paper</a></li>
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.56.4713" rel="nofollow">Taivalsaari (1996) paper</a></li>
 <li><a href="http://c2.com/cgi/wiki?PrototypeBasedLanguage" rel="nofollow">Prototype-Based Language List</a></li>
+<li><a href="http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html" rel="nofollow">prototype programming in Javascript</a></li>
 </ul>
 
 General Programming
