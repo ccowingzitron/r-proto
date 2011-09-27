@@ -10,6 +10,7 @@ Proto
 <li><a href="http://cran.r-project.org/web/packages/proto/vignettes/proto.pdf" rel="nofollow">proto tutorial</a></li>
 <li><a href="http://cran.r-project.org/web/packages/proto/index.html" rel="nofollow">proto on CRAN</a></li>
 <li><a href="http://www.r-project.org/" rel="nofollow">R</a></li>
+<li><a href="http://www.rinfinance.com/agenda/2011/LouisKates.pptx">proto presentation (pptx)</a></li>
 </ul>
 
 Prototype Programming
