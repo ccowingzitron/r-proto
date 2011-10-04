@@ -34,7 +34,7 @@ General Programming
 <li><a href="http://www.c2.com/cgi/wiki?DogFood" rel="nofollow">Dog Food</a></li>
 <li><a href="http://www.python.org/dev/peps/pep-0020/" rel="nofollow">Zen</a></li>
 <li><a href="http://sites.google.com/site/yacoset/Home/signs-that-you-re-a-bad-programmer" rel="nofollow">Bad Programming</a></li>
-<li><a href="http://andreyf.tumblr.com/post/459323557/good-code-needs-few-unit-tests">Good Code Needs Few Unit Tests</a></li>
+<li><a href="http://web.archive.org/web/20100322200526/http://andreyf.tumblr.com/post/459323557/good-code-needs-few-unit-tests">Good Code Needs Few Unit Tests</a></li>
 <li><a href="http://use.perl.org/~ziggy/journal/26131">Manipulexity and Whipuptitude</a></li>
 <li><a href="http://fuelyourcoding.com/one-sure-fire-way-to-improve-your-coding/">One Sure Fire Way to Improve your Coding</a></li>
 <li><a href="http://www.slideshare.net/cxpartners/secrets-of-simplicity">The Secrets of Simplicity</a></li>
