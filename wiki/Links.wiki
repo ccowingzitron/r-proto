@@ -61,4 +61,5 @@ General Programming
 <li><a href="http://developers.slashdot.org/story/11/03/26/0016229/CMU-Eliminates-Object-Oriented-Programming-For-Freshman?from=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Slashdot%2Fslashdot+%28Slashdot%29&utm_content=Google+Feedfetcher">CMU removes OO from Freshman year</a></li>
 <li><a href="http://www.daddymodern.com/susanne-langer-theory/">Susanne Langer Theory</a></li>
 <li><a href="http://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality">Size is best predictor of code quality</a></li>
-<li><a href="http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html">Do not use "er"</a></li></ul>
+<li><a href="http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html">Do not use "er"</a></li>
+<li><a href="http://kev.inburke.com/kevin/the-best-ways-to-find-bugs-in-your-code/">Which methods are most effective for finding bugs?</a></li></ul>
