@@ -48,8 +48,9 @@ General Programming
 <li><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html">Competency</a></li>
 <li><a href="http://www.dump.com/2010/12/13/the-vendor-client-relationship-in-real-world-situations-video/">If people paid for other things like they paid for programming</a></li>
 <li><a href="http://whatupdave.com/post/1170718843/leaving-net">Dysfunctional Development</a></li>
-<li>Jolt Programming Book Awards <a href="http://drdobbs.com/joltawards/231500080">(2011)</a> <a href="http://www.drdobbs.com/blog/archives/2010/08/jolt_awards_big.html">(2010)</a> 
-<A href="http://translate.google.com/translate?hl=en&sl=ko&u=http://tkhwang.tistory.com/20&ei=IMYXTb__IoL-nAfb593mDQ&sa=X&oi=translate&ct=result&resnum=2&ved=0CB4Q7gEwATgU&prev=/search%3Fq%3Djolt%2Bbook%2Bawards%2B2009%26start%3D20%26hl%3Den%26sa%3DN%26prmd%3Divns">(2009)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards">(2008)</a> <a href="http://www.amazon.com/Jolt-Award-Book-Finalists-Annual/lm/R1WFNR53KCER6W">(2007)</a></li>
+<li>Jolt Programming Book Awards 
+<a href="http://drdobbs.com/joltawards/231500080">(2011a)</a> <a href="http://drdobbs.com/security/231600815">(2011b)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards#2010">(2010)</a> 
+<A href="http://translate.google.com/translate?hl=en&sl=ko&u=http://tkhwang.tistory.com/20&ei=IMYXTb__IoL-nAfb593mDQ&sa=X&oi=translate&ct=result&resnum=2&ved=0CB4Q7gEwATgU&prev=/search%3Fq%3Djolt%2Bbook%2Bawards%2B2009%26start%3D20%26hl%3Den%26sa%3DN%26prmd%3Divns">(2009)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards#2008">(2008)</a> <a href="http://www.amazon.com/Jolt-Award-Book-Finalists-Annual/lm/R1WFNR53KCER6W">(2007a)</a> <a href="http://en.wikipedia.org/wiki/Jolt_Awards#2007">(2007b)</a></li>
 <li><a href="http://adam.heroku.com/past/2008/8/11/speculating_sucks/">Speculating Sucks</a></li>
 <li><a href="http://projectb14ck.org/programming-innocence">Fearless Coding</a></li>
 <li><a href="http://gamesfromwithin.com/the-const-nazi">The const Nazi (for C++ programmers only)</a></li>
