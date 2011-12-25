@@ -65,4 +65,4 @@ General Programming
 <li><a href="http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html">Do not use "er"</a></li>
 <li><a href="http://kev.inburke.com/kevin/the-best-ways-to-find-bugs-in-your-code/">Which methods are most effective for finding bugs?</a></li>
 <li><a href="http://colinm.org/language_checklist.html">Programming Language Checklist</a></li>
-<li><a href="http://www.globalnerdy.com/2010/05/09/new-programming-jargon/">New Programming Jargon</a> (also see: <a href="http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined">[stackoverflow]</a></ul>)
+<li><a href="http://www.globalnerdy.com/2010/05/09/new-programming-jargon/">New Programming Jargon</a> (also see: <a href="http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined">[stackoverflow]</a>)</li></ul>
