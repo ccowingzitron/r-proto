@@ -32,7 +32,7 @@ General Programming
 <li><a href="http://web.archive.org/web/20100825224129/http://typicalprogrammer.com/?p=8" rel="nofollow">Abject-Oriented Programming (he-he)</a> (also see <a href="http://seven-degrees-of-freedom.blogspot.com/2011/01/job-security-through-code-obscurity.html">this</a> for another approach)</li>
 <li><a href="http://basildoncoder.com/blog/2008/03/21/the-pg-wodehouse-method-of-refactoring/" rel="nofollow">P.G. Wodehouse Refactoring</a></li>
 <li><a href="http://www.c2.com/cgi/wiki?DogFood" rel="nofollow">Dog Food</a></li>
-<li><a href="http://www.python.org/dev/peps/pep-0020/" rel="nofollow">Zen</a></li>
+<li><a href="http://www.python.org/dev/peps/pep-0020/" rel="nofollow">Zen</a> (also <a href="http://satyajit.ranjeev.in/2012/05/17/python-a-few-things-to-remember.html">remember this</a>)</li>
 <li><a href="http://sites.google.com/site/yacoset/Home/signs-that-you-re-a-bad-programmer" rel="nofollow">Bad Programming</a></li>
 <li><a href="http://web.archive.org/web/20100322200526/http://andreyf.tumblr.com/post/459323557/good-code-needs-few-unit-tests">Good Code Needs Few Unit Tests</a></li>
 <li><a href="http://use.perl.org/~ziggy/journal/26131">Manipulexity and Whipuptitude</a></li>
