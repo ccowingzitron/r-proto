@@ -68,4 +68,5 @@ General Programming
 <li><a href="http://www.globalnerdy.com/2010/05/09/new-programming-jargon/">New Programming Jargon</a> (also see: <a href="http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined">[stackoverflow]</a>)</li>
 <li><a href="http://idealab.talkingpointsmemo.com/2012/01/mayor-bloomberg-will-learn-how-to-write-code-in-2012.php">Mayor Bloomberg will learn how to write code in 2012</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging">Rubber Duck Debugging</a></li>
-<li><a href="http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html">Books Programmers Don't Really Read</a></li></ul>
+<li><a href="http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html">Books Programmers Don't Really Read</a></li>
+<li><a href="http://gender.stanford.edu/news/2011/researcher-reveals-how-%E2%80%9Ccomputer-geeks%E2%80%9D-replaced-%E2%80%9Ccomputergirls%E2%80%9D">Programming was once stereotyped as a female occupation</a></li></ul>
