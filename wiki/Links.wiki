@@ -74,4 +74,5 @@ General Programming
 <li><a href="http://mikegrouchy.com/blog/2012/06/write-less-code.html">Write Less Code</a></li>
 <li><a href="http://database-programmer.blogspot.ca/2012/06/do-you-know-what-day-it-is.html">Today's Constant is Tomorrow's Variable</a></li>
 <li><a href="http://www.codinghorror.com/blog/2012/07/new-programming-jargon.html">New Programming Language Jargon</a></li>
-<li><a href="http://machinesplusminds.blogspot.ca/2012/08/the-carpets-are-so-clean-we-dont-need.html">The Carpets are So Clean We Don't Need Janitors</a></li></ul>
+<li><a href="http://machinesplusminds.blogspot.ca/2012/08/the-carpets-are-so-clean-we-dont-need.html">The Carpets are So Clean We Don't Need Janitors</a></li>
+<li><a href="http://www.informit.com/articles/article.aspx?p=1926692">Politics vs. Ideas</a></li></ul>
