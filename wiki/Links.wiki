@@ -79,4 +79,5 @@ General Programming
 <li><a href="http://www.informit.com/articles/article.aspx?p=1926692">Politics vs. Ideas</a></li>
 <li><a href="http://www.informit.com/articles/article.aspx?p=1941206">Think before debugging</a></li>
 <li><a href="http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi/">A Programmer"s Guide to Healing RSI</a> <a href="http://news.ycombinator.com/item?id=4480877">(discussion)</a></li>
-<li><a href="http://stackoverflow.com/questions/218123/what-was-the-strangest-coding-standard-rule-that-you-were-forced-to-follow/293552">Strangest Coding Standards</a></li></ul>
+<li><a href="http://stackoverflow.com/questions/218123/what-was-the-strangest-coding-standard-rule-that-you-were-forced-to-follow/293552">Strangest Coding Standards</a></li>
+<li><a href="http://www.google.com/ig/directory">Global Variables</a></li></ul>
