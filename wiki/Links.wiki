@@ -81,4 +81,6 @@ General Programming
 <li><a href="http://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi/">A Programmer"s Guide to Healing RSI</a> <a href="http://news.ycombinator.com/item?id=4480877">(discussion)</a></li>
 <li><a href="http://stackoverflow.com/questions/218123/what-was-the-strangest-coding-standard-rule-that-you-were-forced-to-follow/293552">Strangest Coding Standards</a></li>
 <li><a href="http://www.google.com/ig/directory">Global Variables</a></li>
-<li><a href="http://www.paulgraham.com/fix.html">What Languages Fix</a></li></ul>
+<li><a href="http://www.paulgraham.com/fix.html">What Languages Fix</a></li>
+<li><a href="http://www.drdobbs.com/jvm/the-rise-and-fall-of-languages-in-2012/240145800">The Rise and Fall of Languages - 2012</a> <a href="http://www.drdobbs.com/mobile/the-rise-and-fall-of-programming-languag/232400093">(2011)</a> <a href="http://www.drdobbs.com/tools/the-rise-and-fall-of-languages-in-2010/229100358?actionType=twdl">(2010)</a></li>
+</ul>
