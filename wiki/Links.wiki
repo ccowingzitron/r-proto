@@ -88,4 +88,5 @@ General Programming
 <li><a href="http://www.joelonsoftware.com/items/2003/10/13.html">Exceptions are the new GOTO</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Ostrich_algorithm">Osterich Algorithm</a></li>
 <li><a href="https://www.youtube.com/watch?v=6XvmhE1J9PY">US President calls on all Americans to learn how to code</a> (<a href="http://cardenas.house.gov/media-center/press-releases/c-rdenas-416d65726963612043616e20436f646520">(America Can Code Act)</a></li>
+<li><a href="http://www.joelonsoftware.com/articles/Biculturalism.html">UNIX/Windows Biculturalism</a></li>
 </ul>
