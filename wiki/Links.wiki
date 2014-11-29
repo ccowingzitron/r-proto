@@ -92,4 +92,5 @@ General Programming
 <li><a href="http://jeffhuang.com/best_paper_awards.html">Best CS Papers</a></li>
 <li><a href="http://bugroll.com/ratcheting.html">Ratcheting</a></li>
 <li><a href="http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html">Complaint Driven Development</a></li>
+<li><a href="https://www.youtube.com/watch?v=YX3iRjKj7C0&feature=youtu.be&t=19m32s">What Killed Smalltalk?</a></li>
 </ul>
