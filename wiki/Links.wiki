@@ -95,4 +95,5 @@ General Programming
 <li><a href="https://www.youtube.com/watch?v=YX3iRjKj7C0&feature=youtu.be&t=19m32s">What Killed Smalltalk?</a></li>
 <li><a href="http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf">Bumper Sticker Computer Science</a></li>
 <li><a href="http://sdtimes.com/nasas-10-rules-developing-safety-critical-code/">NASA Guidelines for C Code</a></li>
+<li><a href="https://news.ycombinator.com/item?id=9242384">Debugging</a></li>
 </ul>
